@@ -1,6 +1,10 @@
 # NeweggTechie
 Collection of information about computers compiled by the Newegg techies
 
+## Categories
+
+- [Builds and Build Guides](builds/) - Guides and resources for building computers
+
 Want some more info or need some help? Join the [Newegg Discord](https://discord.gg/newegg)
 
 **Disclaimer**: This repository is not officially affiliated with Newegg, and does not reflect the views or opinions of Newegg.
